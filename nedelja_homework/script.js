@@ -77,29 +77,3 @@ else if (kolicinaNovca == ukupnaCena) {
 else {
     console.log("Nemate dovoljno novca");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// let najkraci = niz
-//     .filter((val) => {
-//         return val.includes("string");
-//     })
-//     .reduce((a, b) => {
-//         return a.length < b.length ? a : b;
-//     });
-// console.log(najkraci);
-
-//3. sastaviti sve stringove bez prve reci "neki" osim ako stringsadrzi deo recenice "string koji je", takve stringove izostaviti
